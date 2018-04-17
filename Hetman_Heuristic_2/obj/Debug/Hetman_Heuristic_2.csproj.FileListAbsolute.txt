@@ -1,0 +1,7 @@
+D:\semestr 6\SI\CSP_Lab_2\Hetman_Heuristic_2\bin\Debug\Hetman_Heuristic_2.exe.config
+D:\semestr 6\SI\CSP_Lab_2\Hetman_Heuristic_2\bin\Debug\Hetman_Heuristic_2.exe
+D:\semestr 6\SI\CSP_Lab_2\Hetman_Heuristic_2\bin\Debug\Hetman_Heuristic_2.pdb
+D:\semestr 6\SI\CSP_Lab_2\Hetman_Heuristic_2\obj\Debug\Hetman_Heuristic_2.csproj.CoreCompileInputs.cache
+D:\semestr 6\SI\CSP_Lab_2\Hetman_Heuristic_2\obj\Debug\Hetman_Heuristic_2.exe
+D:\semestr 6\SI\CSP_Lab_2\Hetman_Heuristic_2\obj\Debug\Hetman_Heuristic_2.pdb
+D:\semestr 6\SI\CSP_Lab_2\Hetman_Heuristic_2\obj\Debug\Hetman_Heuristic_2.csprojResolveAssemblyReference.cache

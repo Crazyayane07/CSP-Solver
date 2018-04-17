@@ -1,0 +1,7 @@
+D:\semestr 6\SI\CSP_Lab_2\Hetman_Solution\bin\Debug\Hetman_Solution.exe.config
+D:\semestr 6\SI\CSP_Lab_2\Hetman_Solution\bin\Debug\Hetman_Solution.exe
+D:\semestr 6\SI\CSP_Lab_2\Hetman_Solution\bin\Debug\Hetman_Solution.pdb
+D:\semestr 6\SI\CSP_Lab_2\Hetman_Solution\obj\Debug\Hetman_Solution.csprojResolveAssemblyReference.cache
+D:\semestr 6\SI\CSP_Lab_2\Hetman_Solution\obj\Debug\Hetman_Solution.csproj.CoreCompileInputs.cache
+D:\semestr 6\SI\CSP_Lab_2\Hetman_Solution\obj\Debug\Hetman_Solution.exe
+D:\semestr 6\SI\CSP_Lab_2\Hetman_Solution\obj\Debug\Hetman_Solution.pdb

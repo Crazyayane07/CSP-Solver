@@ -1,0 +1,7 @@
+D:\semestr 6\SI\CSP_Lab_2\Latin_Square_Heuristic_1\bin\Debug\Latin_Square_Heuristic_1.exe.config
+D:\semestr 6\SI\CSP_Lab_2\Latin_Square_Heuristic_1\bin\Debug\Latin_Square_Heuristic_1.exe
+D:\semestr 6\SI\CSP_Lab_2\Latin_Square_Heuristic_1\bin\Debug\Latin_Square_Heuristic_1.pdb
+D:\semestr 6\SI\CSP_Lab_2\Latin_Square_Heuristic_1\obj\Debug\Latin_Square_Heuristic_1.csprojResolveAssemblyReference.cache
+D:\semestr 6\SI\CSP_Lab_2\Latin_Square_Heuristic_1\obj\Debug\Latin_Square_Heuristic_1.csproj.CoreCompileInputs.cache
+D:\semestr 6\SI\CSP_Lab_2\Latin_Square_Heuristic_1\obj\Debug\Latin_Square_Heuristic_1.exe
+D:\semestr 6\SI\CSP_Lab_2\Latin_Square_Heuristic_1\obj\Debug\Latin_Square_Heuristic_1.pdb

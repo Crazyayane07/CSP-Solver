@@ -1,0 +1,7 @@
+D:\semestr 6\SI\CSP_Lab_2\Latin_Square_Solution\bin\Debug\Latin_Square_Solution.exe.config
+D:\semestr 6\SI\CSP_Lab_2\Latin_Square_Solution\bin\Debug\Latin_Square_Solution.exe
+D:\semestr 6\SI\CSP_Lab_2\Latin_Square_Solution\bin\Debug\Latin_Square_Solution.pdb
+D:\semestr 6\SI\CSP_Lab_2\Latin_Square_Solution\obj\Debug\Latin_Square_Solution.csproj.CoreCompileInputs.cache
+D:\semestr 6\SI\CSP_Lab_2\Latin_Square_Solution\obj\Debug\Latin_Square_Solution.exe
+D:\semestr 6\SI\CSP_Lab_2\Latin_Square_Solution\obj\Debug\Latin_Square_Solution.pdb
+D:\semestr 6\SI\CSP_Lab_2\Latin_Square_Solution\obj\Debug\Latin_Square_Solution.csprojResolveAssemblyReference.cache
